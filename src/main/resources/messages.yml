@@ -1,0 +1,15 @@
+core:
+  prefix: "&a&lActivity &8&l» "
+activity:
+  reloaded: "&aConfiguration files reloaded!"
+  no-permission: "&cYou do not have permission to use this command!"
+  target-not-found: "&cThat player was not found!"
+  format:
+    - "&a&l%player%'s Activity"
+    - ""
+    - "&7This Month: &a%month%"
+    - "&7This Week: &a%week%"
+    - "&7This Day: &a%day%"
+    - ""
+    - "&7Total: &a%total%"
+    - "&7Session: &a%session%"

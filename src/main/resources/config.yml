@@ -1,0 +1,10 @@
+mysql:
+  address: "localhost:3306"
+  database: "minecraft"
+  username: "root"
+  password: ""
+
+# Server blacklist
+activity:
+  blacklist:
+    - "skywars"

@@ -1,0 +1,4 @@
+name: BungeeActivity
+version: '${project.version}'
+author: Jaoow
+main: com.jaoow.bungeeactivity.BungeeActivity
